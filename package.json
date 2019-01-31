@@ -1,0 +1,9 @@
+{
+  "name": "node-config-simple",
+  "version": "1.0.0",
+  "description": "An extremely mowed-down version of lorenwest's node-config. ",
+  "main": "index.js",
+  "repository": "https://github.com/chardskarth/node-config-simple.git",
+  "author": "Richard Glen Domingo <chardskarth@gmail.com>",
+  "license": "MIT"
+}
