@@ -5,5 +5,9 @@
   "main": "index.js",
   "repository": "https://github.com/chardskarth/node-config-simple.git",
   "author": "Richard Glen Domingo <chardskarth@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "deepmerge": "3.1.0",
+    "js-yaml": "3.12.1"
+  }
 }
